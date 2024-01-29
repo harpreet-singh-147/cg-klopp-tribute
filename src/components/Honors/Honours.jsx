@@ -21,7 +21,7 @@ const Honours = () => {
               <img
                 src='https://res.cloudinary.com/cloudinary-h/image/upload/v1706369609/cg-klopp-tribute/klopp-prem.webp'
                 className='card-img-top'
-                alt='...'
+                alt='Jurgen Norbert Klopp with the premier league trophy'
               />
               <div className='card-body'>
                 <h3 className='card-title h5 fw-bold'>
@@ -43,7 +43,7 @@ const Honours = () => {
               <img
                 src='https://res.cloudinary.com/cloudinary-h/image/upload/v1706369092/cg-klopp-tribute/klopp-cl.webp'
                 className='card-img-top'
-                alt='...'
+                alt='Jurgen Norbert Klopp with the european cup trophy'
               />
               <div className='card-body'>
                 <h3 className='card-title h5 fw-bold'>
@@ -67,7 +67,7 @@ const Honours = () => {
               <img
                 src='https://res.cloudinary.com/cloudinary-h/image/upload/v1706370251/cg-klopp-tribute/klopp-fac.jpg'
                 className='card-img-top'
-                alt='...'
+                alt='Jurgen Norbert Klopp with the FA cup'
               />
               <div className='card-body'>
                 <h3 className='card-title h5 fw-bold'> FA Cup (2021/22)</h3>
@@ -88,7 +88,7 @@ const Honours = () => {
               <img
                 src='https://res.cloudinary.com/cloudinary-h/image/upload/v1706370189/cg-klopp-tribute/klopp-cara.jpg'
                 className='card-img-top'
-                alt='...'
+                alt='Jurgen Norbert Klopp with the carabao cup trophy'
               />
               <div className='card-body'>
                 <h3 className='card-title h5 fw-bold'>Carabao Cup (2021/22)</h3>
@@ -107,7 +107,7 @@ const Honours = () => {
               <img
                 src='https://res.cloudinary.com/cloudinary-h/image/upload/v1706370082/cg-klopp-tribute/klopp-super.jpg'
                 className='card-img-top'
-                alt='...'
+                alt='Jurgen Norbert Klopp and his staff with the UEFA super cup trophy'
               />
               <div className='card-body'>
                 <h3 className='card-title h5 fw-bold'>UEFA Super Cup (2019)</h3>
@@ -128,7 +128,7 @@ const Honours = () => {
               <img
                 src='https://res.cloudinary.com/cloudinary-h/image/upload/v1706370137/cg-klopp-tribute/klopp-clubwc.jpg'
                 className='card-img-top'
-                alt='...'
+                alt='Jurgen Norbert Klopp with the FIFA world cup trophy'
               />
               <div className='card-body'>
                 <h3 className='card-title h5 fw-bold'>

@@ -44,21 +44,21 @@ const Hero = () => {
                   <img
                     src='https://res.cloudinary.com/cloudinary-h/image/upload/v1706369092/cg-klopp-tribute/klopp01.jpg'
                     className='d-block w-100 rounded-5'
-                    alt='...'
+                    alt='Jurgen Norbert Klopp clapping to the spectators'
                   />
                 </div>
                 <div className='carousel-item'>
                   <img
                     src='https://res.cloudinary.com/cloudinary-h/image/upload/v1706369092/cg-klopp-tribute/klopp02.jpg'
                     className='d-block w-100 rounded-5'
-                    alt='...'
+                    alt='Jurgen Norbert Klopp looking cool'
                   />
                 </div>
                 <div className='carousel-item'>
                   <img
                     src='https://res.cloudinary.com/cloudinary-h/image/upload/v1706395103/cg-klopp-tribute/klopp05.jpg'
                     className='d-block w-100 rounded-5'
-                    alt='...'
+                    alt='Jurgen Norbert Klopp celebrating'
                   />
                 </div>
               </div>
