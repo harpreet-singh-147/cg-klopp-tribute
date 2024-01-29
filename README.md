@@ -1,5 +1,7 @@
 # Jurgen Klopp Tribute Page
 
+- [Live URL](https://harpreet-singh-147.github.io/cg-klopp-tribute/) - Live site URL
+
 This project is a tribute to Jürgen Klopp, the much loved manager of Liverpool FC. It's an endeavor that began as part of the Coders Guild program, focusing on creating a website about a subject close to the heart. In this case, the website is dedicated to showcasing the achievements of Klopp at Liverpool.
 
 ## Project Overview
