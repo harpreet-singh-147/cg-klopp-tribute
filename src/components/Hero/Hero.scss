@@ -1,0 +1,121 @@
+.hero-section {
+  margin-top: 82px;
+  padding: 1rem 0 2rem 0;
+  //   background-image: linear-gradient(
+  //       to bottom right,
+  //       rgba(0, 0, 0, 0.5),
+  //       rgba(0, 0, 0, 0.5)
+  //     ),
+  //     url('https://res.cloudinary.com/cloudinary-h/image/upload/v1706369091/cg-klopp-tribute/klopp-wave.jpg');
+  //   background-size: cover;
+  //   background-position: center;
+  //   background-repeat: no-repeat;
+  //   background-color: rgba($color: #000, $alpha: 0.1);
+  min-height: auto;
+  width: 100%;
+
+  animation-name: zoomIn;
+  animation-duration: 10s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+}
+
+.hero-section .slide {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.hero-section .carousel-item {
+  height: 40rem;
+}
+
+.hero-section .carousel-item img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+}
+
+@media only screen and (max-width: 500px) {
+  .hero-section {
+    min-height: 50vh;
+  }
+  .hero-section .carousel-item {
+    height: 30rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .hero-section .carousel-item {
+    height: 25rem;
+  }
+}
+
+// .hero-section h1,
+// .hero-section .carousel {
+//   opacity: 0;
+//   animation-name: fadeIn;
+//   animation-duration: 5s;
+//   animation-delay: 8s;
+//   animation-fill-mode: forwards;
+// }
+
+// .hero-section h2 {
+//   position: absolute;
+//   top: 50%;
+//   left: 50%;
+//   transform: translateX(-50%);
+//   z-index: 1;
+//   animation-name: fadeInOut;
+//   animation-duration: 5s;
+//   animation-delay: 5s;
+//   animation-fill-mode: forwards;
+//   opacity: 0;
+// }
+
+// .hero-section .carousel {
+//   width: 85%;
+//   height: auto;
+// }
+
+// .hero-section .carousel-item img {
+//   max-height: 50rem;
+//   width: 100%;
+//   object-fit: cover;
+//   aspect-ratio: 4 /3;
+// }
+
+// @keyframes zoomIn {
+//   0% {
+//     background-size: 50%;
+//     opacity: 0;
+//   }
+//   50% {
+//     background-size: 60%;
+//   }
+//   100% {
+//     background-size: 0%;
+//     opacity: 1;
+//   }
+// }
+
+// @keyframes fadeIn {
+//   from {
+//     opacity: 0;
+//   }
+//   to {
+//     opacity: 1;
+//   }
+// }
+
+// @keyframes fadeInOut {
+//   0% {
+//     opacity: 0;
+//   }
+//   80% {
+//     opacity: 1;
+//   }
+//   100% {
+//     opacity: 0;
+//   }
+// }
